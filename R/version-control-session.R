@@ -7,3 +7,5 @@ sepal_length
 
 head(iris)
 summary(iris)
+
+length(sepal_length)
